@@ -23,12 +23,14 @@ main {
 }
 
 h1 {
+    background-color: aquamarine;
     color: navy;
     margin: 0em;
     display: block;
 }
 
 h2 {
+
     color: navy;
     font-size: 1.2em;
     margin: 0em;
